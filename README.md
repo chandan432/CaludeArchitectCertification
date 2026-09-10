@@ -56,9 +56,10 @@
 
 ### Exam Format
 
-- **Duration:** ~60–90 minutes, proctored, online
+- **Question:** ~60 questions
+- **Duration:** ~120 minutes, proctored, online
 - **Format:** Multiple choice + multi-select + scenario-based
-- **Passing score:** ~70–75%
+- **Passing score:** ~72%
 - **No coding required** — the exam tests **architectural thinking**, not syntax
 
 ### The Golden Rule of the Exam
